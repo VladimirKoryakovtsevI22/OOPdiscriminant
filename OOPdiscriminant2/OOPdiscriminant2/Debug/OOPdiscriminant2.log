@@ -1,0 +1,27 @@
+﻿  OOPdiscriminant2.cpp
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(33,16): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(46,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(115,10): error C2512: myClass: нет подходящего конструктора по умолчанию
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(12,7): message : см. объявление "myClass"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(117,9): error C2059: синтаксическая ошибка: тип
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(117,21): error C2065: i: необъявленный идентификатор
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(117,31): error C2065: i: необъявленный идентификатор
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(117,34): error C2059: синтаксическая ошибка: )
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(119,3): error C2062: тип "float" не требуется
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(120,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(121,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(122,7): error C2065: i: необъявленный идентификатор
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(122,24): error C2065: a: необъявленный идентификатор
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(123,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,2): error C2059: синтаксическая ошибка: for
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,29): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,28): error C2086: int i: переопределение
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125): message : см. объявление "i"
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(125,31): error C2059: синтаксическая ошибка: )
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(128,2): error C2059: синтаксическая ошибка: return
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(129,1): error C2059: синтаксическая ошибка: }
+T:\И-22\VOVA\OOPdiscriminant2\OOPdiscriminant2\OOPdiscriminant2.cpp(129,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
